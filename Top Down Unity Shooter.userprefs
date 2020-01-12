@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Top Down Unity Shooter.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\SampleScenes\Scripts\ParticleSceneControls.cs">
+    <Files>
+      <File FileName="Assets\Scripts\GameScripts\Managers\GunManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameScripts\MoveRelativeTo.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameScripts\Managers\UIController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameScripts\Managers\PlayerManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameScripts\playerim.cs" Line="1" Column="1" />
+      <File FileName="Assets\SampleScenes\Scripts\ParticleSceneControls.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,437 @@
+fileFormatVersion: 2
+guid: e8d081a25d5184c8aa05dbf6f9ad1038
+timeCreated: 1518890387
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: bedrock
+    100002: cobblestone
+    100004: cobweb
+    100006: command_side
+    100008: dirt
+    100010: dirt_grass_top
+    100012: fire
+    100014: glass
+    100016: gravel
+    100018: iron_bars
+    100020: iron_block
+    100022: log_oak_side
+    100024: log_oak_top
+    100026: mob_char
+    100028: //RootNode
+    100030: netherrack
+    100032: piston_arm
+    100034: piston_bottom
+    100036: piston_side
+    100038: plank_jungle
+    100040: plank_oak
+    100042: plank_spruce
+    100044: redstone_dust_off
+    100046: redstone_torch_on
+    100048: sea_lantern
+    100050: sign
+    100052: stained_clay_green
+    100054: stone
+    100056: stone_andesite
+    100058: stone_brick
+    100060: stone_slab_side
+    100062: stone_slab_top
+    100064: torch
+    100066: torch_flame
+    100068: unknown
+    100070: water
+    400000: bedrock
+    400002: cobblestone
+    400004: cobweb
+    400006: command_side
+    400008: dirt
+    400010: dirt_grass_top
+    400012: fire
+    400014: glass
+    400016: gravel
+    400018: iron_bars
+    400020: iron_block
+    400022: log_oak_side
+    400024: log_oak_top
+    400026: mob_char
+    400028: //RootNode
+    400030: netherrack
+    400032: piston_arm
+    400034: piston_bottom
+    400036: piston_side
+    400038: plank_jungle
+    400040: plank_oak
+    400042: plank_spruce
+    400044: redstone_dust_off
+    400046: redstone_torch_on
+    400048: sea_lantern
+    400050: sign
+    400052: stained_clay_green
+    400054: stone
+    400056: stone_andesite
+    400058: stone_brick
+    400060: stone_slab_side
+    400062: stone_slab_top
+    400064: torch
+    400066: torch_flame
+    400068: unknown
+    400070: water
+    2300000: bedrock
+    2300002: cobblestone
+    2300004: cobweb
+    2300006: command_side
+    2300008: dirt
+    2300010: dirt_grass_top
+    2300012: fire
+    2300014: glass
+    2300016: gravel
+    2300018: iron_bars
+    2300020: iron_block
+    2300022: log_oak_side
+    2300024: log_oak_top
+    2300026: mob_char
+    2300028: netherrack
+    2300030: piston_arm
+    2300032: piston_bottom
+    2300034: piston_side
+    2300036: plank_jungle
+    2300038: plank_oak
+    2300040: plank_spruce
+    2300042: redstone_dust_off
+    2300044: redstone_torch_on
+    2300046: sea_lantern
+    2300048: sign
+    2300050: stained_clay_green
+    2300052: stone
+    2300054: stone_andesite
+    2300056: stone_brick
+    2300058: stone_slab_side
+    2300060: stone_slab_top
+    2300062: torch
+    2300064: torch_flame
+    2300066: unknown
+    2300068: water
+    3300000: bedrock
+    3300002: cobblestone
+    3300004: cobweb
+    3300006: command_side
+    3300008: dirt
+    3300010: dirt_grass_top
+    3300012: fire
+    3300014: glass
+    3300016: gravel
+    3300018: iron_bars
+    3300020: iron_block
+    3300022: log_oak_side
+    3300024: log_oak_top
+    3300026: mob_char
+    3300028: netherrack
+    3300030: piston_arm
+    3300032: piston_bottom
+    3300034: piston_side
+    3300036: plank_jungle
+    3300038: plank_oak
+    3300040: plank_spruce
+    3300042: redstone_dust_off
+    3300044: redstone_torch_on
+    3300046: sea_lantern
+    3300048: sign
+    3300050: stained_clay_green
+    3300052: stone
+    3300054: stone_andesite
+    3300056: stone_brick
+    3300058: stone_slab_side
+    3300060: stone_slab_top
+    3300062: torch
+    3300064: torch_flame
+    3300066: unknown
+    3300068: water
+    4300000: bedrock
+    4300002: cobblestone
+    4300004: cobweb
+    4300006: command_side
+    4300008: dirt
+    4300010: dirt_grass_top
+    4300012: fire
+    4300014: glass
+    4300016: gravel
+    4300018: iron_bars
+    4300020: iron_block
+    4300022: log_oak_side
+    4300024: log_oak_top
+    4300026: mob_char
+    4300028: netherrack
+    4300030: piston_arm
+    4300032: piston_bottom
+    4300034: piston_side
+    4300036: plank_jungle
+    4300038: plank_oak
+    4300040: plank_spruce
+    4300042: redstone_dust_off
+    4300044: redstone_torch_on
+    4300046: sea_lantern
+    4300048: sign
+    4300050: stained_clay_green
+    4300052: stone
+    4300054: stone_andesite
+    4300056: stone_brick
+    4300058: stone_slab_side
+    4300060: stone_slab_top
+    4300062: torch
+    4300064: torch_flame
+    4300066: unknown
+    4300068: water
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bedrock
+    second: {fileID: 2100000, guid: 51121667cde6744279934d62a074b1e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cobblestone
+    second: {fileID: 2100000, guid: fce6a638f4eba4c68b3537fa0fc2dfac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cobweb
+    second: {fileID: 2100000, guid: e58b765abcd0b4856b56c8bcf7938b05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: command_side
+    second: {fileID: 2100000, guid: 78d4aa900b05444aeb1d133467cd8380, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dirt
+    second: {fileID: 2100000, guid: 79bb171fbfc93274395e008b95c2458e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dirt_grass_top
+    second: {fileID: 2100000, guid: bb7b63ae7f2294dc893a8fbb28061b37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fire
+    second: {fileID: 2100000, guid: 94722594457b740cfaeb64aa20f51742, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass
+    second: {fileID: 2100000, guid: dc8b3c5d2c38d48d5a2712e74e5eded0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gravel
+    second: {fileID: 2100000, guid: 1589fbdabf03b42f8a07bcb6eff8855a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: iron_bars
+    second: {fileID: 2100000, guid: 523ff3a179d4d4fa1a8d50fdcae89da3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: iron_block
+    second: {fileID: 2100000, guid: aa3384e4d4afa4fdda0ae1d90dce6b7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: log_oak_side
+    second: {fileID: 2100000, guid: adb7762e95c9e46ff9b2de006d748f6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: log_oak_top
+    second: {fileID: 2100000, guid: 6f21bad826f7b4d7797ed04bc8d92e2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mob_char
+    second: {fileID: 2100000, guid: c292b646632c84964ba804c94cea5c71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: netherrack
+    second: {fileID: 2100000, guid: 35ece28903f9c45ec8df7103e489a54b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: piston_arm
+    second: {fileID: 2100000, guid: 5868d45c94b48435594d18089e59c422, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: piston_bottom
+    second: {fileID: 2100000, guid: 35d569f2cf6dc42cbb3112bdf4dc81f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: piston_side
+    second: {fileID: 2100000, guid: 6127c83c9697c485bbe15af91302ef03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plank_jungle
+    second: {fileID: 2100000, guid: 00bf2cc7a03e240a3ba2b5f8714cac82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plank_oak
+    second: {fileID: 2100000, guid: 5846eca676292453586f2cdd7c85bd66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plank_spruce
+    second: {fileID: 2100000, guid: c2dae61cb660846178038f7388d7ba70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: redstone_dust_off
+    second: {fileID: 2100000, guid: a8459383c06824bf0a11fa2d04851aa9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: redstone_torch_on
+    second: {fileID: 2100000, guid: 2029cc2f4c16a4777a81b7c5d1ce86c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sea_lantern
+    second: {fileID: 2100000, guid: 64dce3d375e894479bc146c49483f66c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sign
+    second: {fileID: 2100000, guid: 8d94e23521df24237b4890974d43271f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stained_clay_green
+    second: {fileID: 2100000, guid: 55cd404d74c5c4b35852a80d8f934672, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stone
+    second: {fileID: 2100000, guid: 8fa2a730a6da94c0bb1f284d60e48e17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stone_andesite
+    second: {fileID: 2100000, guid: 20934fae00b7549b792753fcbcdd72be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stone_brick
+    second: {fileID: 2100000, guid: 5a66a20a2984542aeb1f9dcd3b96c998, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stone_slab_side
+    second: {fileID: 2100000, guid: 08ed35d7ffe8142f0894ff58893c50c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stone_slab_top
+    second: {fileID: 2100000, guid: 21d44f39538984f99a3092ad93ef6dac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: torch
+    second: {fileID: 2100000, guid: e35359dd84ffd42e69ec2d689b5bf23d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: torch_flame
+    second: {fileID: 2100000, guid: d634fb89e73d1406a9d7f81cfcac8a48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: unknown
+    second: {fileID: 2100000, guid: f1006bcff0d544a39a6622df7aa2517d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: water
+    second: {fileID: 2100000, guid: ff79a180f0e234be8b1201b102cbd3ab, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

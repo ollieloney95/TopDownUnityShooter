@@ -1,0 +1,39 @@
+# Wavefront MTL
+# Created by fragMOTION
+# http://www.fragmosoft.com
+
+newmtl Material
+illum 2
+d 1
+ka 0.8 0.8 0.8
+kd 0.8 0.8 0.8
+ks 0 0 0
+ke 0 0 0
+ns 0
+newmtl Material1
+illum 2
+d 1
+ka 0.184314 0.172549 0.184314
+kd 0.184314 0.172549 0.184314
+ks 0.498039 0.498039 0.498039
+ke 0 0 0
+ns 96.0784
+map_kd D:\Programma's\fragMOTION 1.1.1\Models\zomby_light.png
+newmtl Material2
+illum 2
+d 1
+ka 0.639216 0.639216 0.639216
+kd 0.639216 0.639216 0.639216
+ks 0.498039 0.498039 0.498039
+ke 0 0 0
+ns 96.0784
+map_kd D:\Programma's\fragMOTION 1.1.1\Models\ribs_light.png
+newmtl Material3
+illum 2
+d 1
+ka 0.619608 0.611765 0.603922
+kd 0.619608 0.611765 0.603922
+ks 0 0 0
+ke 0 0 0
+ns 50
+map_kd D:\Robert's Documenten\Sketch-Up Models\francisca[1].jpg

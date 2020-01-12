@@ -1,0 +1,447 @@
+fileFormatVersion: 2
+guid: b2ccbf6d60729b84b9edfe892911d3ec
+timeCreated: 1476027323
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bed
+    100002: Bedrock
+    100004: Birch_Fence
+    100006: Birch_Wood_Stairs
+    100008: Bookshelf
+    100010: Chest
+    100012: Cobblestone
+    100014: Cobblestone_Stairs
+    100016: Crafting_Table
+    100018: Dandelion
+    100020: Dark_Oak_Fence
+    100022: Dirt
+    100024: Grass_Block
+    100026: Jungle_Fence
+    100028: Leaves_(Acacia/Dark_Oak)
+    100030: Leaves__3
+    100032: //RootNode
+    100034: Monster_Egg__5
+    100036: Nether_Brick
+    100038: Nether_Brick_Stairs
+    100040: Poppy
+    100042: Poppy__5
+    100044: Poppy__6
+    100046: Stationary_Water
+    100048: Stone__5
+    100050: Stone_Brick_Stairs
+    100052: Stone_Bricks
+    100054: Stone_Bricks__2
+    100056: Stone_Bricks__3
+    100058: Torch
+    100060: Wood__3
+    100062: Wood_Planks
+    100064: Wood_Planks__2
+    100066: Wood_Planks__4
+    100068: Wool__13
+    100070: Wool__2
+    100072: Wool__5
+    400000: Bed
+    400002: Bedrock
+    400004: Birch_Fence
+    400006: Birch_Wood_Stairs
+    400008: Bookshelf
+    400010: Chest
+    400012: Cobblestone
+    400014: Cobblestone_Stairs
+    400016: Crafting_Table
+    400018: Dandelion
+    400020: Dark_Oak_Fence
+    400022: Dirt
+    400024: Grass_Block
+    400026: Jungle_Fence
+    400028: Leaves_(Acacia/Dark_Oak)
+    400030: Leaves__3
+    400032: //RootNode
+    400034: Monster_Egg__5
+    400036: Nether_Brick
+    400038: Nether_Brick_Stairs
+    400040: Poppy
+    400042: Poppy__5
+    400044: Poppy__6
+    400046: Stationary_Water
+    400048: Stone__5
+    400050: Stone_Brick_Stairs
+    400052: Stone_Bricks
+    400054: Stone_Bricks__2
+    400056: Stone_Bricks__3
+    400058: Torch
+    400060: Wood__3
+    400062: Wood_Planks
+    400064: Wood_Planks__2
+    400066: Wood_Planks__4
+    400068: Wool__13
+    400070: Wool__2
+    400072: Wool__5
+    2300000: Bed
+    2300002: Bedrock
+    2300004: Birch_Fence
+    2300006: Birch_Wood_Stairs
+    2300008: Bookshelf
+    2300010: Chest
+    2300012: Cobblestone
+    2300014: Cobblestone_Stairs
+    2300016: Crafting_Table
+    2300018: Dandelion
+    2300020: Dark_Oak_Fence
+    2300022: Dirt
+    2300024: Grass_Block
+    2300026: Jungle_Fence
+    2300028: Leaves_(Acacia/Dark_Oak)
+    2300030: Leaves__3
+    2300032: Monster_Egg__5
+    2300034: Nether_Brick
+    2300036: Nether_Brick_Stairs
+    2300038: Poppy
+    2300040: Poppy__5
+    2300042: Poppy__6
+    2300044: Stationary_Water
+    2300046: Stone__5
+    2300048: Stone_Brick_Stairs
+    2300050: Stone_Bricks
+    2300052: Stone_Bricks__2
+    2300054: Stone_Bricks__3
+    2300056: Torch
+    2300058: Wood__3
+    2300060: Wood_Planks
+    2300062: Wood_Planks__2
+    2300064: Wood_Planks__4
+    2300066: Wool__13
+    2300068: Wool__2
+    2300070: Wool__5
+    3300000: Bed
+    3300002: Bedrock
+    3300004: Birch_Fence
+    3300006: Birch_Wood_Stairs
+    3300008: Bookshelf
+    3300010: Chest
+    3300012: Cobblestone
+    3300014: Cobblestone_Stairs
+    3300016: Crafting_Table
+    3300018: Dandelion
+    3300020: Dark_Oak_Fence
+    3300022: Dirt
+    3300024: Grass_Block
+    3300026: Jungle_Fence
+    3300028: Leaves_(Acacia/Dark_Oak)
+    3300030: Leaves__3
+    3300032: Monster_Egg__5
+    3300034: Nether_Brick
+    3300036: Nether_Brick_Stairs
+    3300038: Poppy
+    3300040: Poppy__5
+    3300042: Poppy__6
+    3300044: Stationary_Water
+    3300046: Stone__5
+    3300048: Stone_Brick_Stairs
+    3300050: Stone_Bricks
+    3300052: Stone_Bricks__2
+    3300054: Stone_Bricks__3
+    3300056: Torch
+    3300058: Wood__3
+    3300060: Wood_Planks
+    3300062: Wood_Planks__2
+    3300064: Wood_Planks__4
+    3300066: Wool__13
+    3300068: Wool__2
+    3300070: Wool__5
+    4300000: Bed
+    4300002: Bedrock
+    4300004: Birch_Fence
+    4300006: Birch_Wood_Stairs
+    4300008: Bookshelf
+    4300010: Chest
+    4300012: Cobblestone
+    4300014: Cobblestone_Stairs
+    4300016: Crafting_Table
+    4300018: Dandelion
+    4300020: Dark_Oak_Fence
+    4300022: Dirt
+    4300024: Grass_Block
+    4300026: Jungle_Fence
+    4300028: Leaves_(Acacia/Dark_Oak)
+    4300030: Leaves__3
+    4300032: Monster_Egg__5
+    4300034: Nether_Brick
+    4300036: Nether_Brick_Stairs
+    4300038: Poppy
+    4300040: Poppy__5
+    4300042: Poppy__6
+    4300044: Stationary_Water
+    4300046: Stone__5
+    4300048: Stone_Brick_Stairs
+    4300050: Stone_Bricks
+    4300052: Stone_Bricks__2
+    4300054: Stone_Bricks__3
+    4300056: Torch
+    4300058: Wood__3
+    4300060: Wood_Planks
+    4300062: Wood_Planks__2
+    4300064: Wood_Planks__4
+    4300066: Wool__13
+    4300068: Wool__2
+    4300070: Wool__5
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bed
+    second: {fileID: 2100000, guid: 1e0f6af9e0a211d4ab8349c33d99b007, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bedrock
+    second: {fileID: 2100000, guid: 3cd5d39aa8685dd4e9638fbb12340d44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Birch_Fence
+    second: {fileID: 2100000, guid: 7796aa9173c992e4ba5518d38699133a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Birch_Wood_Stairs
+    second: {fileID: 2100000, guid: d609c711e1c66d742a3573ae5cf5d3f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bookshelf
+    second: {fileID: 2100000, guid: 17241dba50c8553429b0677634d1db4c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chest
+    second: {fileID: 2100000, guid: d741e2f1ab3a74b418130a122628e49c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cobblestone
+    second: {fileID: 2100000, guid: 57bf814886880ff4ba8f02d7ca42ce52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cobblestone_Stairs
+    second: {fileID: 2100000, guid: 7231bcb88b7e269488e75f10037114e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Crafting_Table
+    second: {fileID: 2100000, guid: aea6179e0a77ba74d90cc40d88b2643e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dandelion
+    second: {fileID: 2100000, guid: 45fd0ab6cd50a93448f9138f989c3c2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark_Oak_Fence
+    second: {fileID: 2100000, guid: a981ae9805afbe04cb5ce57488ac307f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dirt
+    second: {fileID: 2100000, guid: 01d25c0b437513e4e8cae6bf8875ed0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grass_Block
+    second: {fileID: 2100000, guid: 457e17f8add2e9b45a04c89c81ac8412, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jungle_Fence
+    second: {fileID: 2100000, guid: b94e8e25870c1134a8bc335b1d5632a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leaves_(Acacia_Dark_Oak)
+    second: {fileID: 2100000, guid: 68136d99056dc3e469f7d0356eb871e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leaves__3
+    second: {fileID: 2100000, guid: 257fdbd73c013d544a41a3ab468b0693, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Monster_Egg__5
+    second: {fileID: 2100000, guid: c71745c4b8e7a7d42bb0dacf8f6a5018, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nether_Brick
+    second: {fileID: 2100000, guid: a61e643c60dcdb04690b81aef34c0134, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nether_Brick_Stairs
+    second: {fileID: 2100000, guid: ecd54839e845cda46a81ea4106a2752d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Poppy
+    second: {fileID: 2100000, guid: b89935d274fcb9144a426bdcd4edd310, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Poppy__5
+    second: {fileID: 2100000, guid: d17e272fb2cbfc04fbc6b3d75d586727, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Poppy__6
+    second: {fileID: 2100000, guid: d7cfbfce305bd7942b33f0bf9c166ef1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stationary_Water
+    second: {fileID: 2100000, guid: a9ae7fb43686f974eb8267f79833abd1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stone_Brick_Stairs
+    second: {fileID: 2100000, guid: 58e6a8ddae887434fa1af901852b383b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stone_Bricks
+    second: {fileID: 2100000, guid: e2e83360575de214da408f7444a26950, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stone_Bricks__2
+    second: {fileID: 2100000, guid: ca19290a5829daa44b011c5a260f1c06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stone_Bricks__3
+    second: {fileID: 2100000, guid: e863edba49e8d5149bb6ec1b43b6945f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stone__5
+    second: {fileID: 2100000, guid: 711682c8490ebf045be337378a6d8eae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Torch
+    second: {fileID: 2100000, guid: df6e7266cd18664488f6b9d7d4ad9bfe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood_Planks
+    second: {fileID: 2100000, guid: a8ea3e32a42187c4ca3b4fecbdd52a54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood_Planks__2
+    second: {fileID: 2100000, guid: 3bc3d6c827ac1b14dbb672f44f4fc34a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood_Planks__4
+    second: {fileID: 2100000, guid: 729cc2c33a316d349bcd3ee1d39687f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood__3
+    second: {fileID: 2100000, guid: 1900403881935e648bff87da51ff74ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wool__13
+    second: {fileID: 2100000, guid: b43cd2ea14bbabd409a5989752996037, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wool__2
+    second: {fileID: 2100000, guid: 6847723416f9d804e9da66b2bbc61350, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wool__5
+    second: {fileID: 2100000, guid: 96a0cdde9fef10245aacb157743e64aa, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
